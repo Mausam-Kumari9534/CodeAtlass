@@ -14,8 +14,8 @@ export default function Footer({ onNavigate }: FooterProps) {
           onClick={() => onNavigate?.("landing")}
           className="flex items-center gap-2 group cursor-pointer bg-transparent border-0 p-0"
         >
-          <div className="w-7 h-7 rounded-md bg-gray-900 flex items-center justify-center text-white group-hover:bg-blue-600 transition-colors duration-200">
-            <Terminal className="w-3.5 h-3.5 stroke-[2.5]" />
+          <div className="w-7 h-7 flex items-center justify-center transition-transform group-hover:scale-105">
+            <img src="/logo.png" alt="CodeAtlas Logo" className="w-full h-full object-contain" />
           </div>
           <span className="text-lg font-bold tracking-tight text-gray-950">
             CodeAtlas
