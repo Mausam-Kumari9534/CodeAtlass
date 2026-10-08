@@ -26,20 +26,20 @@ interface LandingPageProps {
 
 const FAQ_ITEMS = [
   {
-    q: "Kya CodeAtlas private repositories support karta hai?",
-    a: "Nahi, abhi hum sirf public GitHub repositories ko support karte hain. Private repositories ka support future update mein aayega.",
+    q: "Does CodeAtlas support private repositories?",
+    a: "No, currently we only support public GitHub repositories. Support for private repositories will be added in a future update.",
   },
   {
-    q: "AI analysis mein kitna time lagta hai?",
-    a: "Aam taur par 5 se 15 seconds. Agar repo bohot badi hai, toh 20-30 seconds lag sakte hain.",
+    q: "How much time does the AI analysis take?",
+    a: "Usually 5 to 15 seconds. For very large repositories, it might take 20-30 seconds.",
   },
   {
-    q: "Kya hum analysis ko export kar sakte hain?",
-    a: "Haan! Aap code summary aur full analysis report ko PDF ya Markdown format mein export kar sakte hain.",
+    q: "Can we export the analysis?",
+    a: "Yes! You can export the code summary and full analysis report in PDF or Markdown format.",
   },
   {
-    q: "Kaise pata chalega ki tech stack kaunsa hai?",
-    a: "CodeAtlas package.json, requirements.txt, go.mod, Dockerfile, etc. ko automatically parse karke full technology map generate karta hai.",
+    q: "How does it identify the tech stack?",
+    a: "CodeAtlas automatically parses files like package.json, requirements.txt, go.mod, Dockerfile, etc., to generate a complete technology map.",
   },
 ];
 
