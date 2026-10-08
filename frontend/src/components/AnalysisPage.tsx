@@ -141,8 +141,8 @@ ${displayData.folders.map(f => `- **${f.path}**: ${f.purpose} (${f.fileCount} fi
           </div>
         </aside>
 
-        <main className="lg:col-span-9 space-y-12">
-          <div className="flex flex-wrap items-center justify-between border-b border-zinc-200 pb-4 gap-4">
+        <main className="lg:col-span-9 space-y-12 relative">
+          <div className="flex flex-wrap items-center justify-between border-b border-zinc-200 pb-4 gap-4 sticky top-[64px] z-40 bg-white/95 backdrop-blur-md pt-4 -mt-4 px-2 -mx-2 sm:px-0 sm:mx-0 rounded-b-xl">
             <button
               onClick={() => onNavigate("landing")}
               className="inline-flex items-center gap-1.5 text-xs text-zinc-500 hover:text-zinc-900 transition-colors cursor-pointer bg-transparent border-0"
