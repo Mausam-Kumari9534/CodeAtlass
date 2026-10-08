@@ -39,7 +39,7 @@ export default function App() {
   });
 
   const [recent, setRecent] = useState<RecentItem[]>([]);
-  const [lang, setLang] = useState<"en" | "hi">("hi");
+  const [lang, setLang] = useState<"en" | "hi">("en");
 
   useEffect(() => {
     // Fetch recent items from the Express backend
