@@ -22,7 +22,7 @@
     "@typescript-eslint/eslint-plugin": "^8.70.0",
     "@typescript-eslint/parser": "^8.70.0",
     "@vitejs/plugin-react": "^6.1.1",
-    "autoprefixer": "^10.4.19",
+    "autoprefixer": "^10.6.1",
     "postcss": "^8.4.38",
     "tailwindcss": "^4.3.3",
     "typescript": "^7.0.2",
