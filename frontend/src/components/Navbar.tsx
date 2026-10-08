@@ -51,8 +51,8 @@ export default function Navbar({ onNavigate, currentPage }: NavbarProps) {
           onClick={() => onNavigate?.("landing")}
           className="flex items-center gap-2.5 group cursor-pointer bg-transparent border-0 text-left p-0"
         >
-          <div className="w-8 h-8 rounded-md bg-gray-900 flex items-center justify-center text-white group-hover:bg-blue-600 transition-colors">
-            <Terminal className="w-4 h-4 stroke-[2.5]" />
+          <div className="w-8 h-8 flex items-center justify-center transition-transform group-hover:scale-105">
+            <img src="/logo.png" alt="CodeAtlas Logo" className="w-full h-full object-contain" />
           </div>
           <div className="flex items-center gap-2">
             <span className="text-lg font-bold tracking-tight text-gray-900 font-sans">
