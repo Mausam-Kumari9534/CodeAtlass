@@ -1,3 +1,49 @@
+<!-- ═══════════════ CODEATLAS README HEADER ═══════════════ -->
+
+<div align="center">
+
+<!-- PROJECT BANNER -->
+<img src="assets/codeatlas-banner.png" alt="CodeAtlas — Understand Any GitHub Repository" width="100%" />
+
+<br/>
+
+# 🗺️ CodeAtlas
+
+### Understand Any GitHub Repository in Minutes
+
+**Your intelligent companion for exploring, understanding, and visualizing GitHub repositories.**
+
+*Simple English • Hinglish • Interactive Architecture • Smart Code Exploration*
+
+<br/>
+
+<!-- STATUS BADGES -->
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Project-2563EB?style=for-the-badge)](https://codeatlass.pages.dev)
+[![Backend](https://img.shields.io/badge/Backend-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://codeatlass-1.onrender.com/api/health)
+[![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=black)](https://neon.tech)
+
+<br/>
+
+<!-- QUICK NAVIGATION -->
+
+[🌐 Live Demo](https://codeatlass.pages.dev) •
+[⚙️ Backend API](https://codeatlass-1.onrender.com/api/health) •
+[🐛 Report an Issue](https://github.com/Mausam-Kumari9534/CodeAtlass/issues) •
+[📚 Documentation](#-table-of-contents)
+
+<br/>
+
+**Paste a public GitHub repository URL. Explore its technologies, folders, files, and architecture through an interactive, beginner-friendly experience.**
+
+</div>
+
+---
+
+<!-- ═══════════════ END README HEADER ═══════════════ -->
+
 ## 🗺️ Feature Overview — How CodeAtlas Works
 
 CodeAtlas transforms any public GitHub repository into an easy-to-understand visual guide. From scanning repository files to exploring architecture and generating bilingual explanations, everything follows a structured analysis workflow.
