@@ -2067,3 +2067,64 @@ These filenames are examples. Keep the filenames and steps consistent with the w
 A properly configured pipeline helps catch errors before deployment, reduces repetitive manual work, and makes CodeAtlas releases more consistent.
 
 **Note:** GitHub Actions does not automatically deploy the application merely because a workflow file exists. Configure the required build commands, secrets, deployment provider and triggers first.
+
+
+---
+
+<!-- ═══════════════ CODEATLAS README FOOTER ═══════════════ -->
+
+<div align="center">
+
+## 🌟 Explore. Understand. Build.
+
+**Making complex GitHub repositories easier to understand, one project at a time.**
+
+<br/>
+
+[![Live Project](https://img.shields.io/badge/🌐_Live_Project-CodeAtlas-2563EB?style=for-the-badge)](https://codeatlass.pages.dev)
+[![Backend Status](https://img.shields.io/badge/⚙️_Backend-API-059669?style=for-the-badge)](https://codeatlass-1.onrender.com/api/health)
+[![Report Issue](https://img.shields.io/badge/🐛_Report-Issue-DC2626?style=for-the-badge)](https://github.com/Mausam-Kumari9534/CodeAtlass/issues)
+
+<br/>
+
+### 💻 Built With
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+<br/>
+
+### 🤝 Contribute & Collaborate
+
+Found a bug or have an idea to improve CodeAtlas?
+
+[Open an Issue](https://github.com/Mausam-Kumari9534/CodeAtlass/issues) ·
+[Contribute to the Project](#-contributing)
+
+<br/>
+
+### 📄 License
+
+This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+
+<br/>
+
+**Built with ❤️ by Mausam Kumari & Contributors**
+
+<br/>
+
+⭐ If you find this project useful, consider giving it a star on GitHub!
+
+<br/>
+
+[⬆️ Back to Top](#-codeatlas)
+
+</div>
+
+<!-- ═══════════════ END README FOOTER ═══════════════ -->
